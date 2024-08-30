@@ -1,0 +1,3 @@
+making bootable usb flash drives ... 
+ventoy - allows to copy and paste iso onto flash drive with out having to burn the image like in rufus or balena etcher - works in linux and windows version .. 
+Balena - etcher allows to make a fully bootable iso image 
